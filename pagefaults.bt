@@ -1,0 +1,3 @@
+software:faults:1 {
+    @[comm] = count();
+}
