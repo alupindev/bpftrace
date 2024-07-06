@@ -1,0 +1,4 @@
+hardware:cache-misses:1000000
+{
+    @[comm, pid] = count();
+}
